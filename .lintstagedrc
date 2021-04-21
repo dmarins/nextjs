@@ -1,4 +1,4 @@
 {
   "package.json": "sort-package-json",
-  "src/**/*": ["yarn lint --fix"]
+  "src/**/*": ["yarn lint --fix", "yarn test --bail"]
 }
